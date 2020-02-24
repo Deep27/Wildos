@@ -1,3 +1,5 @@
+package io.deep27soft.wildos;
+
 import org.loadtest4j.LoadTester;
 import org.loadtest4j.Request;
 import org.loadtest4j.Result;

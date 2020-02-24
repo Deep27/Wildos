@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Swagger coverage test suite">
+    <test name="All">
+        <packages>
+            <package name="io.deep27soft.wildos.*"/>
+        </packages>
+    </test>
+</suite>
